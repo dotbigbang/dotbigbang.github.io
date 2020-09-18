@@ -2,6 +2,8 @@
 
 Here you'll find everything you need to know about making games with dot big bang.
 
+Hi! I'm Enderdxg, here to help test something :) 
+
 [Edit this page](https://github.com/dotbigbang/dotbigbang.github.io/blob/master/index.md)
 
 [Complete API reference](https://docs.dotbigbang.com)
